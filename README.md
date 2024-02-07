@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @christianjj
+- 👋 Hi, I’m christian Jimenez
 - 👀 I’m interested in android
-- 🌱 I’m currently learning kotlin
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Unit testing and Multithreading Course
+
 
 <!---
 christianjj/christianjj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
