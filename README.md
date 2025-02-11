@@ -1,6 +1,7 @@
 - 👋 Hi, I’m christian Jimenez
 - 👀 I’m interested in android
 - 🌱 I’m currently learning Unit testing and Multithreading Course
+- 🌱 I’m currently learning Flutter
 
 
 <!---
